@@ -39,3 +39,5 @@ index 2cd2c43e..320b2d2c 100644
      op->addTag(TAG_FTP);
      op->addTag(TAG_HTTP);
 ```
+
+See `./Dockerfile` for windows build, and see the original instructions for linux build. Other platform builds are not tested.
